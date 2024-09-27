@@ -3,7 +3,7 @@ This project is an ETL (Extract, Transform, Load) pipeline that fetches weather 
 
 
 ## Architecture
-[Architecture](weather_pipeline_architecture.png)
+![Architecture](https://github.com/vighneshbuddhivant/weather-data-etl-pipeline/blob/e274f458189b8519fc1941a8b19774c394081314/weather_pipeline_architecture.png)
 
 ## Project Overview
 1. **Extract** weather data from the OpenWeatherMap API for Mumbai.
